@@ -1,8 +1,7 @@
 # depslib dependency file v1.0
-1567692928 source:/home/jok/c++/DataStructure/main.cpp
+1567759573 source:/home/jok/c++/DataStructure/main.cpp
 	<iostream>
-	"BinarySearchTree.h"
-	"Vector.h"
+	"List.h"
 
 1567528731 /home/jok/c++/DataStructure/Tree/BinarySearchTree.h
 	<algorithm>
@@ -10,4 +9,6 @@
 
 1567693012 /home/jok/c++/DataStructure/Vector.h
 	<algorithm>
+
+1567759713 /home/jok/c++/DataStructure/List.h
 
